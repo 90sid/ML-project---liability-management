@@ -1,1 +1,2 @@
 # ML-project---liability-management
+#This project leverages machine learning techniques to enhance liability management by predicting potential financial risks and optimizing resource allocation. The aim is to develop models that can analyze historical data, identify patterns, and provide actionable insights to reduce liabilities and improve financial decision-making. Key features include data preprocessing, model training, and evaluation to ensure accurate and reliable predictions.
